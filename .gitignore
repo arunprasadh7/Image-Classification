@@ -1,0 +1,26 @@
+# Virtual environment
+
+venv/
+
+# Python bytecode
+
+**pycache**/
+
+# Jupyter Notebook temporary files
+
+.ipynb_checkpoints/
+
+# Compiled Python files
+
+_.pyc
+_.pyo
+\*.pyd
+
+# Visual Studio Code specific files
+
+.vscode/
+
+# Data and model files
+
+data/
+models/
